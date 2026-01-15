@@ -1,0 +1,13 @@
+name: TECH3_student
+channels:
+  - defaults
+dependencies:
+  - python=3.13.5
+  - notebook=7.5.0
+  - numpy=2.3.5
+  - scipy=1.16.3
+  - matplotlib=3.10.7
+  - pandas=2.3.3
+  - seaborn=0.13.2
+  - statsmodels=0.14.6
+  - scikit-learn=1.8.0
